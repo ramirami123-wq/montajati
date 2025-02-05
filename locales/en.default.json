@@ -543,9 +543,6 @@
       "general": {
         "autocomplete_powered_by_google": "Powered by MJivity"
       }
-    },
-    "links": {
-      "powered_by_shopify": "Powered by <a href=\"https://instagram.com/mjivity\">MJivity</a>"
     }
   }
 }
