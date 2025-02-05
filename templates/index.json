@@ -172,6 +172,7 @@
         "307cfa25-ee31-443b-ba59-86beb2541c0a",
         "644b439e-29a8-41e9-a6df-1ceef3850970"
       ],
+      "disabled": true,
       "settings": {
         "criteria_option": "size",
         "heading": "Find your ideal size",
@@ -261,6 +262,7 @@
         "buttons",
         "slide"
       ],
+      "disabled": true,
       "settings": {
         "image_position": "center center",
         "text_box_position": "middle",
@@ -1448,6 +1450,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "map_address": "620 King St W, Toronto, ON M5V 1M7, Canada",
         "map_api_key": "",
@@ -1478,7 +1481,6 @@
     "rich-text-0",
     "bb3256b3-d2cb-467c-9f00-82cda1259a63",
     "reveal-banner",
-    "guarantees",
     "featured-collection",
     "video-hero",
     "countdown-timer",
@@ -1495,6 +1497,7 @@
     "rich-text-1",
     "gallery",
     "scrolling-promotion",
-    "map"
+    "map",
+    "guarantees"
   ]
 }
