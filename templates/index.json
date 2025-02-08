@@ -129,10 +129,10 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#ffb503",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#000000",
+        "colors_highlight": "#d72c0d",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -1303,6 +1303,7 @@
         "image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/new_moint.png",
             "height": 160,
             "link": ""
           }
@@ -1310,6 +1311,7 @@
         "image-4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/new_moint.png",
             "height": 160,
             "link": ""
           }
@@ -1317,6 +1319,7 @@
         "image-5": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/new_moint.png",
             "height": 160,
             "link": ""
           }
