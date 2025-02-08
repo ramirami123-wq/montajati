@@ -763,10 +763,10 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "200px",
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
         "colors_border": "#a1a1a1",
-        "colors_background": "#f7eedd",
+        "colors_background": "#000000",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
