@@ -613,7 +613,7 @@
         "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
+        "colors_button_background": "#d2d5d9",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
@@ -681,7 +681,7 @@
         "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
+        "colors_button_background": "#000000",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
@@ -806,7 +806,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
-        "colors_line": "#ffffff",
+        "colors_line": "#d2d5d9",
         "padding_top": 36,
         "padding_bottom": 36
       }

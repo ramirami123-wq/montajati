@@ -10,7 +10,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#000000",
-    "colors_accent": "#faeaa1",
+    "colors_accent": "#ffffff",
     "colors_background": "#000000",
     "colors_text": "#ffffff",
     "colors_heading": "#ffffff",
@@ -65,6 +65,7 @@
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": true,
     "predictive_search_show_vendor": true,
+    "currency_code_enabled": false,
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
