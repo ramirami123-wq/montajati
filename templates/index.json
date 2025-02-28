@@ -286,35 +286,6 @@
         "padding_bottom": 36
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "humidifiers",
-        "products_to_show": 8,
-        "horizontal_scroll": false,
-        "show_view_all": true,
-        "show_divider": false,
-        "heading": "",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "secondary_image_max": 1,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video-hero": {
       "type": "video-hero",
       "blocks": {
@@ -1161,7 +1132,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>#instagram</p>",
+            "text": "<p>#Montajati_Store</p>",
             "text_size": "typeset2",
             "secondary_color": true,
             "highlight_phrases": "",
@@ -1417,23 +1388,23 @@
         "guarantee-0": {
           "type": "guarantee",
           "settings": {
-            "icon": "leaf",
+            "icon": "fire",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
+            "title": "Top-Quality Products",
             "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Only the best for our customers</p>"
           }
         },
         "guarantee-1": {
           "type": "guarantee",
           "settings": {
-            "icon": "globe",
+            "icon": "price_tag",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
+            "title": "Exclusive Deals",
             "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Enjoy the best offers</p>"
           }
         },
         "guarantee-2": {
@@ -1442,9 +1413,9 @@
             "icon": "recycle",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
+            "title": "Satisfaction Guaranteed",
             "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>We'll make it right if you're not happy</p>"
           }
         },
         "guarantee-3": {
@@ -1453,9 +1424,9 @@
             "icon": "shield",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guarantee heading",
+            "title": "Safe & Secure Shopping",
             "title_size": "h4",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Shop with peace of mind</p>"
           }
         }
       },
@@ -1492,7 +1463,6 @@
     "rich-text-0",
     "bb3256b3-d2cb-467c-9f00-82cda1259a63",
     "reveal-banner",
-    "featured-collection",
     "video-hero",
     "countdown-timer",
     "shop-the-look",
