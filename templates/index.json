@@ -107,7 +107,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Montajati Store: Where Style Meets Smart Shopping!",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -115,11 +115,11 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share ✨ information ✨ about your brand with your customers 😄. You can also highlight text and use emoji to make certain words stand out.</p>",
+            "text": "<p>Welcome to Montajati Store! ✨ Your go-to for trendy beauty dupes, tech gadgets, and stylish accessories at unbeatable prices. 💅🔥 Why pay more? Shop smart, stay stylish!👀💕</p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "highlight\nuse emoji",
-            "highlight_style": "circle"
+            "highlight_phrases": "Montajati Store\ntrendy\nunbeatable prices",
+            "highlight_style": "underline"
           }
         }
       },
