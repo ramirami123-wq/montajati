@@ -66,6 +66,12 @@
     "cart_recommendations_show_vendor": true,
     "predictive_search_show_vendor": true,
     "currency_code_enabled": false,
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_telegram": false,
+    "social_instagram_link": "https://www.instagram.com/montajati_store/",
+    "social_tiktok_link": "https://www.tiktok.com/@montajati_store",
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
