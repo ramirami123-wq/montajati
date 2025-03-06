@@ -29,29 +29,21 @@
             "heading": "Explore",
             "menu": "footer"
           }
-        },
-        "footer-2": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Shop",
-            "menu": "footer"
-          }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-1"
       ],
       "settings": {
         "show_divider": true,
         "newsletter_enable": true,
-        "newsletter_heading": "Exclusive benefits",
-        "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+        "newsletter_heading": "Want Exclusive benefits?",
+        "newsletter_text": "<p>Join for free & unlock exclusive deals, news, and events!</p>",
         "return_url": "",
         "enable_follow_on_shop": true,
         "show_social": true,
-        "social_heading": "",
+        "social_heading": "Follow Us on our social media pages",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
