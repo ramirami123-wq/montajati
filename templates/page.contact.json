@@ -23,7 +23,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Got questions or feedback? Drop us a message using the form belowâ€”weâ€™d love to hear from you!</p>",
+            "text": "<p>Got questions or feedback? Drop us a message using the form below. We love to hear from you!</p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
