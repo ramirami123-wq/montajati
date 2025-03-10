@@ -480,17 +480,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "1. Collapsible row",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "2. Collapsible row",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "heading": "Sol De Janeiro ( Click to Chill)",
+            "content": "<p>Indulge in the irresistible scent and luxury of Brazil's finest body care.</p>",
             "page": ""
           }
         },
@@ -533,7 +524,6 @@
         "countdown",
         "description",
         "collapsible_tab-0",
-        "collapsible_tab-1",
         "read_more",
         "buy_buttons",
         "inventory_status",
@@ -553,6 +543,124 @@
         "enable_layered_images": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "fire",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Top-Quality Products",
+            "title_size": "h4",
+            "text": "<p>Only the best for our customers</p>"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "price_tag",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Exclusive Deals",
+            "title_size": "h4",
+            "text": "<p>Enjoy the best offers</p>"
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "recycle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Satisfaction Guaranteed",
+            "title_size": "h4",
+            "text": "<p>We'll make it right if you're not happy</p>"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Safe & Secure Shopping",
+            "title_size": "h4",
+            "text": "<p>Shop with peace of mind</p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Express yourself with",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>#Montajati_Store</p>",
+            "text_size": "typeset2",
+            "secondary_color": true,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 28
       }
     },
     "testimonials": {
@@ -617,49 +725,6 @@
         "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Express yourself with",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>#Montajati_Store</p>",
-            "text_size": "typeset2",
-            "secondary_color": true,
-            "highlight_phrases": "",
-            "highlight_style": "marker"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": false,
-        "show_divider": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#bbff00",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 28
       }
     },
     "scrolling-promotion": {
@@ -793,81 +858,6 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "guarantees": {
-      "type": "guarantees",
-      "blocks": {
-        "guarantee-0": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "fire",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Top-Quality Products",
-            "title_size": "h4",
-            "text": "<p>Only the best for our customers</p>"
-          }
-        },
-        "guarantee-1": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "price_tag",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Exclusive Deals",
-            "title_size": "h4",
-            "text": "<p>Enjoy the best offers</p>"
-          }
-        },
-        "guarantee-2": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "recycle",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Satisfaction Guaranteed",
-            "title_size": "h4",
-            "text": "<p>We'll make it right if you're not happy</p>"
-          }
-        },
-        "guarantee-3": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "shield",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Safe & Secure Shopping",
-            "title_size": "h4",
-            "text": "<p>Shop with peace of mind</p>"
-          }
-        }
-      },
-      "block_order": [
-        "guarantee-0",
-        "guarantee-1",
-        "guarantee-2",
-        "guarantee-3"
-      ],
-      "settings": {
-        "layout": "default",
-        "column_alignment": "center",
-        "horizontal_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "columns_desktop": 4,
-        "heading": "Guarantees",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "use_custom_colors": false,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -878,10 +868,10 @@
     "video-hero",
     "countdown-timer",
     "featured-product",
-    "testimonials",
+    "guarantees",
     "rich-text-1",
+    "testimonials",
     "scrolling-promotion",
-    "map",
-    "guarantees"
+    "map"
   ]
 }
