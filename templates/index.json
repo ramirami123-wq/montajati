@@ -620,98 +620,150 @@
         "padding_bottom": 36
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Express yourself with",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>#Montajati_Store</p>",
-            "text_size": "typeset2",
-            "secondary_color": true,
-            "highlight_phrases": "",
-            "highlight_style": "marker"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": false,
-        "show_divider": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#bbff00",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
-        "testimonial-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
-          }
-        },
         "testimonial-1": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "text": "<p>Smells just like the original! Super hydrating, long-lasting, and feels so luxurious on the skin. No need to splurge!</p>",
+            "image": "shopify://shop_images/Sol_de_janeiro_Montajati.jpg",
+            "author": "Maya"
           }
         },
-        "testimonial-2": {
+        "testimonial_4DD4FJ": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "text": "<p>This lipstick dupe is spot on! The color payoff is amazing, super creamy, and lasts just like the original.</p>",
+            "image": "shopify://shop_images/Keiko_Montajati.jpg",
+            "author": "Jana"
+          }
+        },
+        "testimonial_hJr8a3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I love the retro design with the modern LED touch. The sound is crystal clear, and it looks so good in my room!</p>",
+            "image": "shopify://shop_images/Vinyl_Speaker_Montajati.jpg",
+            "author": "Rami"
+          }
+        },
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>This dupe is amazing! The scent stays on all day, and my skin feels incredibly soft. Definitely a must-have!</p>",
+            "image": "shopify://shop_images/Sol_de_janeiro_Montajati.jpg",
+            "author": "Tala"
+          }
+        },
+        "testimonial_qLMz6V": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I always find the best dupes here! Great quality, fast shipping, and unbeatable prices.</p>",
+            "image": "shopify://shop_images/new_moint.png",
+            "author": "Hiba"
           }
         },
         "testimonial-3": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "text": "<p>This Rhode face dupe is so hydrating! My skin feels refreshed, glowy, and soft all day long.</p>",
+            "image": "shopify://shop_images/Rhode_Montajati.webp",
+            "author": "Lina"
+          }
+        },
+        "testimonial_hQipGi": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>They don’t just sell products—they create an experience. Feels like I’m part of something bigger!</p>",
+            "image": "shopify://shop_images/new_moint.png",
+            "author": "Mira"
+          }
+        },
+        "testimonial_dw6ii9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Glossy, lightweight, and non-sticky—this Keiko dupe is seriously my new favorite lip gloss!</p>",
+            "image": "shopify://shop_images/Keiko_Montajati.jpg",
+            "author": "Rita"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Great sound quality with deep bass, and the LED lights make it even cooler! Perfect for any setup.</p>",
+            "image": "shopify://shop_images/Vinyl_Speaker_Montajati.jpg",
+            "author": "Karim"
+          }
+        },
+        "testimonial_xMaA8q": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>The pigmentation and blendability of this SHE Glam dupe are unreal! Feels and looks just like the original.</p>",
+            "image": "shopify://shop_images/Sheglam_Montajati.jpg",
+            "author": "Layal"
+          }
+        },
+        "testimonial_FpeBpe": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Best dupes, best prices, and always new deals! Love how they make high-quality beauty so affordable.</p>",
+            "image": "shopify://shop_images/new_moint.png",
+            "author": "Sara"
+          }
+        },
+        "testimonial_7kWhLY": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Long-lasting, smooth, and so affordable! Can’t believe how good this dupe is.</p>",
+            "image": "shopify://shop_images/Sheglam_Montajati.jpg",
+            "author": "Dina"
+          }
+        },
+        "testimonial_eQ74xX": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Love how their products tell a story! Every launch feels unique and exciting.</p>",
+            "image": "shopify://shop_images/new_moint.png",
+            "author": "Elie"
           }
         },
         "testimonial-4": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
-            "author": "Author's name"
+            "text": "<p>The peptide lip tint is everything! Smooth, nourishing, and gives the perfect natural tint that stays on for hours.</p>",
+            "image": "shopify://shop_images/Rhode_Montajati.webp",
+            "author": "Nour"
           }
         }
       },
       "block_order": [
-        "testimonial-0",
         "testimonial-1",
-        "testimonial-2",
+        "testimonial_4DD4FJ",
+        "testimonial_hJr8a3",
+        "testimonial-0",
+        "testimonial_qLMz6V",
         "testimonial-3",
+        "testimonial_hQipGi",
+        "testimonial_dw6ii9",
+        "testimonial-2",
+        "testimonial_xMaA8q",
+        "testimonial_FpeBpe",
+        "testimonial_7kWhLY",
+        "testimonial_eQ74xX",
         "testimonial-4"
       ],
       "settings": {
@@ -798,6 +850,49 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Express yourself with",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>#Montajati_Store</p>",
+            "text_size": "typeset2",
+            "secondary_color": true,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 28
       }
     }
   },
